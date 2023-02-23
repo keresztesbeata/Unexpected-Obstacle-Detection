@@ -3,7 +3,7 @@ backup/
 datasets/
 input/
 logs/
-models/
+old_models/
 research/
 output/
 
